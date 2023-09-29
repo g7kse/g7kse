@@ -13,25 +13,14 @@ copyright = "Alex Hill ©"
   googleAnalytics = ""
 
   [[params.social]]
-    name = "Twitter"
-    link = "#"
-    icon = "fab fa-twitter"
+    name = "Mastodon"
+    link = "https://mastodon.radio/@g7kse"
+    icon = "fab fa-mastodon"
 
   [[params.social]]
     name = "Github"
-    link = "#"
+    link = "https://github.com/g7kse"
     icon = "fab fa-github"
-
-  [[params.social]]
-    name = "Medium" 
-    link = "#"
-    icon = "fab fa-medium-m"
-
-  [[params.social]]
-    name = "LinkedIn"
-    link = "#"
-    icon = "fab fa-linkedin-in"
-
 
 [menu]
   [[menu.main]]
