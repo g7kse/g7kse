@@ -39,10 +39,6 @@ copyright = "Alex Hill ©"
     name = "About"
     url = "/about/"
     weight = 4
-  [[menu.main]]
-    name = "Notes"
-    url = "/notes/"
-    weight = 6
 
 
 [taxonomies]
