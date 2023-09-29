@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com"
+baseURL = "https://vhf.netlify.com"
 languageCode = "en-gb"
 title = "g7kse.co.uk"
 theme = "hugo-digital-garden-theme"
