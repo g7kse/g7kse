@@ -1,5 +1,5 @@
 ---
 title: "Library"
-date: 2021-01-01
-summary: "Notes on some of the books I enjoyed reading"
+date: 2023-09-28
+summary: "A few books that have come my way"
 ---
